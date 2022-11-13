@@ -1,8 +1,8 @@
-                                                         basic-ip-tool - by dualityyz
+# basic-ip-tool - by dualityyz
 
 
 ````
-                      <-- It transfers the IP of the network you are connected to or transferred to you in detail. ->>
+<-- It transfers the IP of the network you are connected to or transferred to you in detail. ->>
 ````
 
 
