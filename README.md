@@ -38,6 +38,13 @@ python3 ip.py
 }
 ```
 
+```
+For Contact
+
+Discord: dualityyz#0829 
+Instagram: @dualityyz 
+Telegram: @dualityyz
+```
 
 
 
